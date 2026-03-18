@@ -1,2 +1,2 @@
 # ClearClient
-1.21.3 Ghost Client
+1.21.3 Ghost And Semi Rage Client 
